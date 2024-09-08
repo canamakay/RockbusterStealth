@@ -10,4 +10,6 @@ Rockbuster Stealth LLC is a movie rental company that had physical stores worldw
 ## Data Set 
 The data contains information about film inventory, customers, and payments.  
 ## Tools Used
-The Rockbuster data set was loaded into PostgreSQL, where it was then queried.  PostgreSQL was managed by pgAdmin4.  Tableau was used to create visualizations from query outputs.  
+The Rockbuster data set was loaded into PostgreSQL, where it was then queried.  PostgreSQL was managed by pgAdmin4.  Tableau was used to create visualizations from query outputs. 
+
+Click [here](https://public.tableau.com/app/profile/kay.canama/viz/RockbusterStealth_17257608784270/RockbusterStealth) to view the visualizations.  
